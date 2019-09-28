@@ -228,6 +228,7 @@ export class Themebar extends ThemingRegistry {
                 text-align: right;
                 font-size: 12px;
                 line-height: 1;
+                opacity: 0.7;
             }
             
             .menubar-menu-container .submenu-indicator {

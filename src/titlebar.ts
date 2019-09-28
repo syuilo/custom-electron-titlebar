@@ -431,7 +431,7 @@ export class Titlebar extends Themebar {
 				title = document.title;
 			}
 
-			this.title.innerText = title;
+			this.title.innerHTML = title;
 		}
 	}
 
